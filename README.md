@@ -6,3 +6,6 @@ A disciplina é composta por 3 unidades, e a nota de cada uma será botida por:
 - Unidade 1: listas no Beecrowd e prova;
 - Unidade 2: listas no Beecrowd e prova;
 - Unidade 3: projeto integrador.
+
+## Como funcionará o repositório?
+Nesse repositório serão publicados por unidade as resoluções das listas feitas no Beecrowd e o projeto final.
