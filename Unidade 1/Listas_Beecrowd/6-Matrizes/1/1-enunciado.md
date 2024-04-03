@@ -27,20 +27,4 @@ Para cada inteiro da entrada imprima a matriz correspondente, de acordo com o ex
 1
 
 ### Exemplo de Saída
-1 2
-2 4
-
- 1  2  4
- 2  4  8
- 4  8 16
-
- 1  2  4  8
- 2  4  8 16
- 4  8 16 32
- 8 16 32 64
-
-  1   2   4   8  16
-  2   4   8  16  32
-  4   8  16  32  64
-  8  16  32  64 128
- 16  32  64 128 256
+![Logo do Markdown](Imagens/output.png)
