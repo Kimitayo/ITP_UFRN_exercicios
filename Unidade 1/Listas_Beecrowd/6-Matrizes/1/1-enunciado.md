@@ -27,4 +27,4 @@ Para cada inteiro da entrada imprima a matriz correspondente, de acordo com o ex
 1
 
 ### Exemplo de Saída
-![Logo do Markdown](Imagens/output.png)
+![output](https://github.com/Kimitayo/ITP_UFRN_exercicios/assets/84105466/56a4df67-c334-4e3e-929a-b6f87618722e)
