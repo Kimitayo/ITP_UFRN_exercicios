@@ -1,4 +1,4 @@
-# ITP_UFRN_exercicios
+# ITP_UFRN_exercicios 2024
 Exercícios referentes a disciplina de Introdução às Técnicas de Programação, do curso de Tecnologia da Informação da UFRN.
 
 ## Divisão dos Exercícios
