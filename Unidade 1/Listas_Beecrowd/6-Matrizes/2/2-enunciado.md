@@ -18,34 +18,5 @@ A primeira linha da entrada tem dois números positivos N e M, representando, re
 ### Saída
 A saída é uma única linha com 2 inteiros X e Y separados por um espaço. Eles representam a coordenada (X,Y) do sabre de luz, caso encontrado. Se o terreno não tem um padrão de sabre de luz, X e Y são ambos zero.
 
-- Exemplos de Entrada	
-4 7
-11 12 7 7 7 13 14
-15 6 7 42 7 7 42
-98 -5 7 7 7 42 7
--1 42 3 9 7 7 7
+![Captura de tela 2024-04-10 212748](https://github.com/Kimitayo/ITP_UFRN_exercicios/assets/84105466/14eccf98-90a7-482d-818e-14ac579d7f91)
 
-
-
-4 7
-11 12 7 7 7 13 14
-15 6 7 12 7 7 42
-98 -5 7 7 7 42 7
--1 42 3 9 7 7 7
-
-
-
-
-3 3
-7 7 7
-7 42 7
-7 7 7
-
-
-
-- Exemplos de Saída
-2 4
-
-0 0
-
-2 2
